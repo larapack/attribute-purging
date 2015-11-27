@@ -1,0 +1,12 @@
+{
+    "name": "larapack/attribute-purging",
+    "description": "Allows you to define what attributes in your Eloquent Model which should be not be inserted into the database.",
+    "keywords": ["package", "laravel", "larapack", "purge", "database", "db", "eloquent", "model", "save"],
+    "license": "MIT",
+    "type": "package",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
