@@ -3,7 +3,7 @@ Allows you to define what attributes in your Eloquent Model which should be not 
 
 ## Installing
 
-Install using Composer `composer require larapack/attribute-purging 1.*`.
+Install using Composer `composer require larapack/attribute-purging`.
 
 ## Usage
 
@@ -13,7 +13,7 @@ First add the trait `Purgeable` to your Eloquent Model.
 
 namespace App;
 
-use Larapack/AttributePurgin/Purgeable;
+use Larapack\AttributePurging\Purgeable;
 
 class User
 {
