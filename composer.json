@@ -20,7 +20,7 @@
         }
     },
     "require": {
-        "laravel/framework": "5.1.*",
+        "laravel/framework": "~5.1",
         "php": ">=5.5.9"
     }
 }
